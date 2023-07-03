@@ -1,7 +1,7 @@
 # Hello, I'm Ongsa 🌡️
 
 <a href="https://github.com/ongsaaa/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ongsaaa&theme=tokyonight&hide=issues,prs&show_icons=true&card_width=220" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ongsaaa&theme=tokyonight&hide=issues,prs&show_icons=true&card_width=120" />
 </a>
 <a href="https://github.com/ongsaaa/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ongsaaa&layout=compact&langs_count=8&card_width=220&theme=tokyonight" />
