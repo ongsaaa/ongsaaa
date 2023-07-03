@@ -1,14 +1,14 @@
 # Hello, I'm Ongsa 🌡️
 
 <a href="https://github.com/ongsaaa/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ongsaaa&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ongsaaa&theme=tokyonight&card_width=220" />
 </a>
 <a href="https://github.com/ongsaaa/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ongsaaa&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ongsaaa&layout=compact&langs_count=8&card_width=220&theme=tokyonight" />
 </a>
 
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
